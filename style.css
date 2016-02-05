@@ -1,0 +1,48 @@
+
+.box1 {
+  position: absolute;
+  height: 40px;
+  width: 40px;
+  background-color: green;
+  right: 200px;
+  bottom: 400px;
+}
+
+.box2 {
+  position: static;
+  height: 40px;
+  width: 40px;
+  background-color: green;
+}
+
+.box3 {
+  position: relative;
+  padding: 20px;
+  margin: 20px;
+  height: 40px;
+  width: 40px;
+  background-color: green;
+}
+
+.box4 {
+  position: fixed;
+  height: 40px;
+  width: 40px;
+  background-color: green;
+  bottom: 0;
+  right: 0;
+}
+
+.hbox {
+  height: 40px;
+  width: 40px;
+  margin: 10px;
+  background-color: green;
+}
+
+.fbox {
+  margin-top: 1000px;
+  height: 40px;
+  width: 40px;
+  background-color: green;
+}
